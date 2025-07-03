@@ -1,0 +1,49 @@
+# Qt-specific
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+Makefile*
+*.qm
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.moc
+
+# Build directories
+build/
+debug/
+release/
+.qmake.cache
+.qmake.stash
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE-specific files
+.vscode/
+.idea/
+*.user
+*.autosave
+
+# Windows-specific
+Thumbs.db
+desktop.ini 

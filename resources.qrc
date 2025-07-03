@@ -1,0 +1,305 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>images/main.png</file>
+        
+        <!-- Armor - Cloth -->
+        <file alias="armor/cloth/cowl/scholar">images/icons/Armor/Cloth/Cowls/Scholar.png</file>
+        <file alias="armor/cloth/cowl/cleric">images/icons/Armor/Cloth/Cowls/Cleric.png</file>
+        <file alias="armor/cloth/cowl/mage">images/icons/Armor/Cloth/Cowls/Mage.png</file>
+        <file alias="armor/cloth/cowl/druid">images/icons/Armor/Cloth/Cowls/Druid.png</file>
+        <file alias="armor/cloth/cowl/fiend">images/icons/Armor/Cloth/Cowls/Fiend.png</file>
+        <file alias="armor/cloth/cowl/cultist">images/icons/Armor/Cloth/Cowls/Cultist.png</file>
+        <file alias="armor/cloth/cowl/feyscale">images/icons/Armor/Cloth/Cowls/Feyscale.png</file>
+        <file alias="armor/cloth/cowl/purity">images/icons/Armor/Cloth/Cowls/Purity.png</file>
+        <file alias="armor/cloth/cowl/royal">images/icons/Armor/Cloth/Cowls/Royal.png</file>
+        
+        <file alias="armor/cloth/robe/scholar">images/icons/Armor/Cloth/Robes/Scholar.png</file>
+        <file alias="armor/cloth/robe/cleric">images/icons/Armor/Cloth/Robes/Cleric.png</file>
+        <file alias="armor/cloth/robe/mage">images/icons/Armor/Cloth/Robes/Mage.png</file>
+        <file alias="armor/cloth/robe/druid">images/icons/Armor/Cloth/Robes/Druid.png</file>
+        <file alias="armor/cloth/robe/fiend">images/icons/Armor/Cloth/Robes/Fiend.png</file>
+        <file alias="armor/cloth/robe/cultist">images/icons/Armor/Cloth/Robes/Cultist.png</file>
+        <file alias="armor/cloth/robe/feyscale">images/icons/Armor/Cloth/Robes/Feyscale.png</file>
+        <file alias="armor/cloth/robe/purity">images/icons/Armor/Cloth/Robes/Purity.png</file>
+        <file alias="armor/cloth/robe/royal">images/icons/Armor/Cloth/Robes/Royal.png</file>
+        
+        <file alias="armor/cloth/sandals/scholar">images/icons/Armor/Cloth/Sandals/Scholar.png</file>
+        <file alias="armor/cloth/sandals/cleric">images/icons/Armor/Cloth/Sandals/Cleric.png</file>
+        <file alias="armor/cloth/sandals/mage">images/icons/Armor/Cloth/Sandals/Mage.png</file>
+        <file alias="armor/cloth/sandals/druid">images/icons/Armor/Cloth/Sandals/Druid.png</file>
+        <file alias="armor/cloth/sandals/fiend">images/icons/Armor/Cloth/Sandals/Fiend.png</file>
+        <file alias="armor/cloth/sandals/cultist">images/icons/Armor/Cloth/Sandals/Cultist.png</file>
+        <file alias="armor/cloth/sandals/feyscale">images/icons/Armor/Cloth/Sandals/Feyscale.png</file>
+        <file alias="armor/cloth/sandals/purity">images/icons/Armor/Cloth/Sandals/Purity.png</file>
+        <file alias="armor/cloth/sandals/royal">images/icons/Armor/Cloth/Sandals/Royal.png</file>
+        
+        <!-- Armor - Leather -->
+        <file alias="armor/leather/hood/mercenary">images/icons/Armor/Leather/Hoods/Mercenary.png</file>
+        <file alias="armor/leather/hood/hunter">images/icons/Armor/Leather/Hoods/Hunter.png</file>
+        <file alias="armor/leather/hood/assassin">images/icons/Armor/Leather/Hoods/Assasin.png</file>
+        <file alias="armor/leather/hood/stalker">images/icons/Armor/Leather/Hoods/Stalker.png</file>
+        <file alias="armor/leather/hood/hellion">images/icons/Armor/Leather/Hoods/Hellion.png</file>
+        <file alias="armor/leather/hood/specter">images/icons/Armor/Leather/Hoods/Specter.png</file>
+        <file alias="armor/leather/hood/mistwalker">images/icons/Armor/Leather/Hoods/Mistwalker.png</file>
+        <file alias="armor/leather/hood/tenacity">images/icons/Armor/Leather/Hoods/Tenacity.png</file>
+        <file alias="armor/leather/hood/royal">images/icons/Armor/Leather/Hoods/Royal.png</file>
+        
+        <file alias="armor/leather/jacket/mercenary">images/icons/Armor/Leather/Jackets/Mercenary.png</file>
+        <file alias="armor/leather/jacket/hunter">images/icons/Armor/Leather/Jackets/Hunter.png</file>
+        <file alias="armor/leather/jacket/assassin">images/icons/Armor/Leather/Jackets/Assasin.png</file>
+        <file alias="armor/leather/jacket/stalker">images/icons/Armor/Leather/Jackets/Stalker.png</file>
+        <file alias="armor/leather/jacket/hellion">images/icons/Armor/Leather/Jackets/Hellion.png</file>
+        <file alias="armor/leather/jacket/specter">images/icons/Armor/Leather/Jackets/Specter.png</file>
+        <file alias="armor/leather/jacket/mistwalker">images/icons/Armor/Leather/Jackets/Mistwalker.png</file>
+        <file alias="armor/leather/jacket/tenacity">images/icons/Armor/Leather/Jackets/Tenacity.png</file>
+        <file alias="armor/leather/jacket/royal">images/icons/Armor/Leather/Jackets/Royal.png</file>
+        
+        <file alias="armor/leather/shoes/mercenary">images/icons/Armor/Leather/Shoes/Mercenary.png</file>
+        <file alias="armor/leather/shoes/hunter">images/icons/Armor/Leather/Shoes/Hunter.png</file>
+        <file alias="armor/leather/shoes/assassin">images/icons/Armor/Leather/Shoes/Assasin.png</file>
+        <file alias="armor/leather/shoes/stalker">images/icons/Armor/Leather/Shoes/Stalker.png</file>
+        <file alias="armor/leather/shoes/hellion">images/icons/Armor/Leather/Shoes/Hellion.png</file>
+        <file alias="armor/leather/shoes/specter">images/icons/Armor/Leather/Shoes/Specter.png</file>
+        <file alias="armor/leather/shoes/mistwalker">images/icons/Armor/Leather/Shoes/Mistwalker.png</file>
+        <file alias="armor/leather/shoes/tenacity">images/icons/Armor/Leather/Shoes/Tenacity.png</file>
+        <file alias="armor/leather/shoes/royal">images/icons/Armor/Leather/Shoes/Royal.png</file>
+        
+        <!-- Armor - Metal -->
+        <file alias="armor/metal/helmet/soldier">images/icons/Armor/Metal/Helmets/Soldier.png</file>
+        <file alias="armor/metal/helmet/knight">images/icons/Armor/Metal/Helmets/Knight.png</file>
+        <file alias="armor/metal/helmet/guardian">images/icons/Armor/Metal/Helmets/Guardian.png</file>
+        <file alias="armor/metal/helmet/graveguard">images/icons/Armor/Metal/Helmets/Graveguard.png</file>
+        <file alias="armor/metal/helmet/demon">images/icons/Armor/Metal/Helmets/Demon.png</file>
+        <file alias="armor/metal/helmet/judicator">images/icons/Armor/Metal/Helmets/Judicator.png</file>
+        <file alias="armor/metal/helmet/duskweaver">images/icons/Armor/Metal/Helmets/Duskweaver.png</file>
+        <file alias="armor/metal/helmet/valor">images/icons/Armor/Metal/Helmets/Valor.png</file>
+        <file alias="armor/metal/helmet/royal">images/icons/Armor/Metal/Helmets/Royal.png</file>
+        
+        <file alias="armor/metal/armor/soldier">images/icons/Armor/Metal/Armors/Soldier.png</file>
+        <file alias="armor/metal/armor/knight">images/icons/Armor/Metal/Armors/Knight.png</file>
+        <file alias="armor/metal/armor/guardian">images/icons/Armor/Metal/Armors/Guardian.png</file>
+        <file alias="armor/metal/armor/graveguard">images/icons/Armor/Metal/Armors/Graveguard.png</file>
+        <file alias="armor/metal/armor/demon">images/icons/Armor/Metal/Armors/Demon.png</file>
+        <file alias="armor/metal/armor/judicator">images/icons/Armor/Metal/Armors/Judicator.png</file>
+        <file alias="armor/metal/armor/duskweaver">images/icons/Armor/Metal/Armors/Duskweaver.png</file>
+        <file alias="armor/metal/armor/valor">images/icons/Armor/Metal/Armors/Valor.png</file>
+        <file alias="armor/metal/armor/royal">images/icons/Armor/Metal/Armors/Royal.png</file>
+        
+        <file alias="armor/metal/boots/soldier">images/icons/Armor/Metal/Boots/Soldier.png</file>
+        <file alias="armor/metal/boots/knight">images/icons/Armor/Metal/Boots/Knight.png</file>
+        <file alias="armor/metal/boots/guardian">images/icons/Armor/Metal/Boots/Guardian.png</file>
+        <file alias="armor/metal/boots/graveguard">images/icons/Armor/Metal/Boots/Graveguard.png</file>
+        <file alias="armor/metal/boots/demon">images/icons/Armor/Metal/Boots/Demon.png</file>
+        <file alias="armor/metal/boots/judicator">images/icons/Armor/Metal/Boots/Judicator.png</file>
+        <file alias="armor/metal/boots/mistwalker">images/icons/Armor/Metal/Boots/Mistwalker.png</file>
+        <file alias="armor/metal/boots/valor">images/icons/Armor/Metal/Boots/Valor.png</file>
+        <file alias="armor/metal/boots/royal">images/icons/Armor/Metal/Boots/Royal.png</file>
+        
+        <!-- Capes -->
+        <file alias="capes/bridgewatch">images/icons/Capes/Bridgewatch.png</file>
+        <file alias="capes/fortsterling">images/icons/Capes/FortSterling.png</file>
+        <file alias="capes/lymhurst">images/icons/Capes/Lymhurst.png</file>
+        <file alias="capes/martlock">images/icons/Capes/Martlock.png</file>
+        <file alias="capes/thetford">images/icons/Capes/Thetford.png</file>
+        <file alias="capes/caerleon">images/icons/Capes/Caerleon.png</file>
+        <file alias="capes/brecilien">images/icons/Capes/Brecilien.png</file>
+        <file alias="capes/avalon">images/icons/Capes/Avalon.png</file>
+        <file alias="capes/heretic">images/icons/Capes/Heretic.png</file>
+        <file alias="capes/undead">images/icons/Capes/Undead.png</file>
+        <file alias="capes/keeper">images/icons/Capes/Keeper.png</file>
+        <file alias="capes/morgana">images/icons/Capes/Morgana.png</file>
+        <file alias="capes/demon">images/icons/Capes/Demon.png</file>
+        <file alias="capes/smuggler">images/icons/Capes/Smuggler_Empty.png</file>
+        
+        <!-- Weapons - Magic -->
+        <!-- Fire -->
+        <file alias="weapons/fire/1h_fire">images/icons/Weapon/Magic/Fire/1H_Fire.png</file>
+        <file alias="weapons/fire/greatfire">images/icons/Weapon/Magic/Fire/Greatfire.png</file>
+        <file alias="weapons/fire/infernal">images/icons/Weapon/Magic/Fire/Infernal.png</file>
+        <file alias="weapons/fire/wildfire">images/icons/Weapon/Magic/Fire/Wildfire.png</file>
+        <file alias="weapons/fire/brimstone">images/icons/Weapon/Magic/Fire/Brimstone.png</file>
+        <file alias="weapons/fire/blazing">images/icons/Weapon/Magic/Fire/Blazing.png</file>
+        <file alias="weapons/fire/dawnsong">images/icons/Weapon/Magic/Fire/Dawnsong.png</file>
+        <file alias="weapons/fire/flamewalker">images/icons/Weapon/Magic/Fire/Flamewalker.png</file>
+        
+        <!-- Holy -->
+        <file alias="weapons/holy/1h_holy">images/icons/Weapon/Magic/Holy/1H_Holy.png</file>
+        <file alias="weapons/holy/divine">images/icons/Weapon/Magic/Holy/Divine.png</file>
+        <file alias="weapons/holy/greatholy">images/icons/Weapon/Magic/Holy/Greatholy.png</file>
+        <file alias="weapons/holy/hallow">images/icons/Weapon/Magic/Holy/Hallow.png</file>
+        <file alias="weapons/holy/hallowfall">images/icons/Weapon/Magic/Holy/Hallowfall.png</file>
+        <file alias="weapons/holy/lifetouch">images/icons/Weapon/Magic/Holy/Lifetouch.png</file>
+        <file alias="weapons/holy/redemption">images/icons/Weapon/Magic/Holy/Redemption.png</file>
+        <file alias="weapons/holy/exalted">images/icons/Weapon/Magic/Holy/Exalted.png</file>
+        
+        <!-- Frost -->
+        <file alias="weapons/frost/1h_frost">images/icons/Weapon/Magic/Frost/1H_Frost.png</file>
+        <file alias="weapons/frost/greatfrost">images/icons/Weapon/Magic/Frost/Greatfrist.png</file>
+        <file alias="weapons/frost/glacial">images/icons/Weapon/Magic/Frost/Glacial.png</file>
+        <file alias="weapons/frost/hoarfrost">images/icons/Weapon/Magic/Frost/Hoarfrost.png</file>
+        <file alias="weapons/frost/icicle">images/icons/Weapon/Magic/Frost/Icicle.png</file>
+        <file alias="weapons/frost/permafrost">images/icons/Weapon/Magic/Frost/Permafrost.png</file>
+        <file alias="weapons/frost/chillhowl">images/icons/Weapon/Magic/Frost/Chillhowl.png</file>
+        <file alias="weapons/frost/arctic">images/icons/Weapon/Magic/Frost/Arctic.png</file>
+        
+        <!-- Nature -->
+        <file alias="weapons/nature/1h_nature">images/icons/Weapon/Magic/Nature/1H_Nature.png</file>
+        <file alias="weapons/nature/greatnature">images/icons/Weapon/Magic/Nature/GreatNature.png</file>
+        <file alias="weapons/nature/wildstaff">images/icons/Weapon/Magic/Nature/Wildstaff.png</file>
+        <file alias="weapons/nature/druidic">images/icons/Weapon/Magic/Nature/Druidic.png</file>
+        <file alias="weapons/nature/blight">images/icons/Weapon/Magic/Nature/Blight.png</file>
+        <file alias="weapons/nature/rampant">images/icons/Weapon/Magic/Nature/Rapmpant.png</file>
+        <file alias="weapons/nature/ironroot">images/icons/Weapon/Magic/Nature/Ironroot.png</file>
+        <file alias="weapons/nature/forgebark">images/icons/Weapon/Magic/Nature/Forgebark.png</file>
+        
+        <!-- Cursed -->
+        <file alias="weapons/cursed/1h_cursed">images/icons/Weapon/Magic/Cursed/1H_Cursed.png</file>
+        <file alias="weapons/cursed/2h_cursed">images/icons/Weapon/Magic/Cursed/2H_Cursed.png</file>
+        <file alias="weapons/cursed/demonic">images/icons/Weapon/Magic/Cursed/Demonic.png</file>
+        <file alias="weapons/cursed/lifecurse">images/icons/Weapon/Magic/Cursed/Lifecurse.png</file>
+        <file alias="weapons/cursed/cursedskull">images/icons/Weapon/Magic/Cursed/CursedSkull.png</file>
+        <file alias="weapons/cursed/damnation">images/icons/Weapon/Magic/Cursed/Damnation.png</file>
+        <file alias="weapons/cursed/shadowcaller">images/icons/Weapon/Magic/Cursed/Shadowcaller.png</file>
+        <file alias="weapons/cursed/rotcaller">images/icons/Weapon/Magic/Cursed/Rotcaller.png</file>
+        
+        <!-- Shapeshifter -->
+        <file alias="weapons/shapeshifter/prowling">images/icons/Weapon/Magic/Shapeshifter/Prowling.png</file>
+        <file alias="weapons/shapeshifter/rootbound">images/icons/Weapon/Magic/Shapeshifter/Rootbound.png</file>
+        <file alias="weapons/shapeshifter/primal">images/icons/Weapon/Magic/Shapeshifter/Primal.png</file>
+        <file alias="weapons/shapeshifter/bloodmoon">images/icons/Weapon/Magic/Shapeshifter/Bloodmoon.png</file>
+        <file alias="weapons/shapeshifter/hellspawn">images/icons/Weapon/Magic/Shapeshifter/Hellspawn.png</file>
+        <file alias="weapons/shapeshifter/earthrune">images/icons/Weapon/Magic/Shapeshifter/Earthrune.png</file>
+        <file alias="weapons/shapeshifter/lightcaller">images/icons/Weapon/Magic/Shapeshifter/Lightcaller.png</file>
+        
+        <!-- Arcane -->
+        <file alias="weapons/arcane/1h_arcane">images/icons/Weapon/Magic/Arcane/1H_Arcanestaff.png</file>
+        <file alias="weapons/arcane/greatarcane">images/icons/Weapon/Magic/Arcane/Greatarcane.png</file>
+        <file alias="weapons/arcane/enigmatic">images/icons/Weapon/Magic/Arcane/Enigmatic.png</file>
+        <file alias="weapons/arcane/witchwork">images/icons/Weapon/Magic/Arcane/Witchwork.png</file>
+        <file alias="weapons/arcane/occult">images/icons/Weapon/Magic/Arcane/Occuly.png</file>
+        <file alias="weapons/arcane/locus">images/icons/Weapon/Magic/Arcane/Locus.png</file>
+        <file alias="weapons/arcane/evensong">images/icons/Weapon/Magic/Arcane/Evensong.png</file>
+        <file alias="weapons/arcane/astral">images/icons/Weapon/Magic/Arcane/Astral.png</file>
+        
+        <!-- Off-hand - Books -->
+        <file alias="offhand/book/book">images/icons/Off-hand/Book/Book.png</file>
+        <file alias="offhand/book/celestialcenser">images/icons/Off-hand/Book/CelestialCenser.png</file>
+        <file alias="offhand/book/eyeofsecrets">images/icons/Off-hand/Book/EyeOfSecrets.png</file>
+        <file alias="offhand/book/muisak">images/icons/Off-hand/Book/Muisak.png</file>
+        <file alias="offhand/book/taproot">images/icons/Off-hand/Book/Taproot.png</file>
+        
+        <!-- Off-hand - Torches -->
+        <file alias="offhand/torch/torch">images/icons/Off-hand/Torch/Torch.png</file>
+        <file alias="offhand/torch/sacredscepter">images/icons/Off-hand/Torch/SacredScepter.png</file>
+        <file alias="offhand/torch/cryptcandle">images/icons/Off-hand/Torch/CryptCandle.png</file>
+        <file alias="offhand/torch/leeringcane">images/icons/Off-hand/Torch/LeeringCane.png</file>
+        <file alias="offhand/torch/mistcaller">images/icons/Off-hand/Torch/Mistcaller.png</file>
+        
+        <!-- Off-hand - Shields -->
+        <file alias="offhand/shield/shield">images/icons/Off-hand/Shield/Shield.png</file>
+        <file alias="offhand/shield/sarcophagus">images/icons/Off-hand/Shield/Sarcophagus.png</file>
+        <file alias="offhand/shield/caitliff">images/icons/Off-hand/Shield/Caitliff.png</file>
+        <file alias="offhand/shield/facebreaker">images/icons/Off-hand/Shield/Facebreaker.png</file>
+        <file alias="offhand/shield/astralaegis">images/icons/Off-hand/Shield/AstralAegis.png</file>
+        
+        <!-- Bow -->
+        <file alias="weapons/bow/bow">images/icons/Weapon/Ranged/Bow/Bow.png</file>
+        <file alias="weapons/bow/warbow">images/icons/Weapon/Ranged/Bow/Warbow.png</file>
+        <file alias="weapons/bow/longbow">images/icons/Weapon/Ranged/Bow/Longbow.png</file>
+        <file alias="weapons/bow/whispering">images/icons/Weapon/Ranged/Bow/Whispering.png</file>
+        <file alias="weapons/bow/wailing">images/icons/Weapon/Ranged/Bow/Wailing.png</file>
+        <file alias="weapons/bow/badon">images/icons/Weapon/Ranged/Bow/Badon.png</file>
+        <file alias="weapons/bow/mistpiercer">images/icons/Weapon/Ranged/Bow/Mistpiercer.png</file>
+        <file alias="weapons/bow/skystrider">images/icons/Weapon/Ranged/Bow/Skystrider.png</file>
+        
+        <!-- Crossbow -->
+        <file alias="weapons/crossbow/crossbow">images/icons/Weapon/Ranged/Crossbow/Crossbow.png</file>
+        <file alias="weapons/crossbow/heavy">images/icons/Weapon/Ranged/Crossbow/HeavyCrossbow.png</file>
+        <file alias="weapons/crossbow/light">images/icons/Weapon/Ranged/Crossbow/LightCrossbow.png</file>
+        <file alias="weapons/crossbow/weeping">images/icons/Weapon/Ranged/Crossbow/WeapingRepeater.png</file>
+        <file alias="weapons/crossbow/boltcasters">images/icons/Weapon/Ranged/Crossbow/Boltcasters.png</file>
+        <file alias="weapons/crossbow/siege">images/icons/Weapon/Ranged/Crossbow/SiegeCrossbow.png</file>
+        <file alias="weapons/crossbow/energy">images/icons/Weapon/Ranged/Crossbow/EnergyShaper.png</file>
+        <file alias="weapons/crossbow/arclight">images/icons/Weapon/Ranged/Crossbow/Arclight.png</file>
+        
+        <!-- Sword -->
+        <file alias="weapons/sword/broadsword">images/icons/Weapon/Melee/Sword/Broadsword.png</file>
+        <file alias="weapons/sword/claymore">images/icons/Weapon/Melee/Sword/Claymore.png</file>
+        <file alias="weapons/sword/dualsword">images/icons/Weapon/Melee/Sword/Dualsword.png</file>
+        <file alias="weapons/sword/clarent">images/icons/Weapon/Melee/Sword/Clarent.png</file>
+        <file alias="weapons/sword/carving">images/icons/Weapon/Melee/Sword/Carving.png</file>
+        <file alias="weapons/sword/galatine">images/icons/Weapon/Melee/Sword/Galatine.png</file>
+        <file alias="weapons/sword/kingmaker">images/icons/Weapon/Melee/Sword/Kingmaker.png</file>
+        <file alias="weapons/sword/infinity">images/icons/Weapon/Melee/Sword/Infinity.png</file>
+        
+        <!-- Axe -->
+        <file alias="weapons/axe/battleaxe">images/icons/Weapon/Melee/Axe/Battleaxe.png</file>
+        <file alias="weapons/axe/greataxe">images/icons/Weapon/Melee/Axe/Greataxe.png</file>
+        <file alias="weapons/axe/halberd">images/icons/Weapon/Melee/Axe/Halberd.png</file>
+        <file alias="weapons/axe/carrioncaller">images/icons/Weapon/Melee/Axe/Carrioncaller.png</file>
+        <file alias="weapons/axe/infernalscythe">images/icons/Weapon/Melee/Axe/InfernalScythe.png</file>
+        <file alias="weapons/axe/bearpaws">images/icons/Weapon/Melee/Axe/BearPaws.png</file>
+        <file alias="weapons/axe/realmbreaker">images/icons/Weapon/Melee/Axe/Realmbreaker.png</file>
+        <file alias="weapons/axe/crystalreaper">images/icons/Weapon/Melee/Axe/CrystalReaper.png</file>
+        
+        <!-- Dagger -->
+        <file alias="weapons/dagger/1h_dagger">images/icons/Weapon/Melee/Dagger/1H_Dagger.png</file>
+        <file alias="weapons/dagger/daggerpair">images/icons/Weapon/Melee/Dagger/DaggerPair.png</file>
+        <file alias="weapons/dagger/claws">images/icons/Weapon/Melee/Dagger/Claws.png</file>
+        <file alias="weapons/dagger/bloodletter">images/icons/Weapon/Melee/Dagger/Bloodletter.png</file>
+        <file alias="weapons/dagger/demonfang">images/icons/Weapon/Melee/Dagger/DemonFang.png</file>
+        <file alias="weapons/dagger/deathgivers">images/icons/Weapon/Melee/Dagger/deathgivers.png</file>
+        <file alias="weapons/dagger/bridledfury">images/icons/Weapon/Melee/Dagger/BridledFury.png</file>
+        <file alias="weapons/dagger/twinslayers">images/icons/Weapon/Melee/Dagger/TwinSlayers.png</file>
+        
+        <!-- Mace -->
+        <file alias="weapons/mace/1h_mace">images/icons/Weapon/Melee/Mace/1H_MAce.png</file>
+        <file alias="weapons/mace/greatmace">images/icons/Weapon/Melee/Mace/Greatmace.png</file>
+        <file alias="weapons/mace/morningstar">images/icons/Weapon/Melee/Mace/MorningStar.png</file>
+        <file alias="weapons/mace/bedrock">images/icons/Weapon/Melee/Mace/Bedrock.png</file>
+        <file alias="weapons/mace/incubus">images/icons/Weapon/Melee/Mace/Incubus.png</file>
+        <file alias="weapons/mace/kamlann">images/icons/Weapon/Melee/Mace/Kamlann.png</file>
+        <file alias="weapons/mace/oathkeepers">images/icons/Weapon/Melee/Mace/Oathkeepers.png</file>
+        <file alias="weapons/mace/dreadstorm">images/icons/Weapon/Melee/Mace/Dreadstorm.png</file>
+        
+        <!-- Spear -->
+        <file alias="weapons/spear/1h_spear">images/icons/Weapon/Melee/Spear/1H_Spear.png</file>
+        <file alias="weapons/spear/pike">images/icons/Weapon/Melee/Spear/Pike.png</file>
+        <file alias="weapons/spear/glaive">images/icons/Weapon/Melee/Spear/Glaive.png</file>
+        <file alias="weapons/spear/heron">images/icons/Weapon/Melee/Spear/Heron.png</file>
+        <file alias="weapons/spear/spirithunter">images/icons/Weapon/Melee/Spear/Spirithunter.png</file>
+        <file alias="weapons/spear/trident">images/icons/Weapon/Melee/Spear/Trident.png</file>
+        <file alias="weapons/spear/daybreaker">images/icons/Weapon/Melee/Spear/Daybreaker.png</file>
+        <file alias="weapons/spear/rift">images/icons/Weapon/Melee/Spear/Rift.png</file>
+        
+        <!-- Hammer -->
+        <file alias="weapons/hammer/1h_hammer">images/icons/Weapon/Melee/Hammer/1H_Hammer.png</file>
+        <file alias="weapons/hammer/polehammer">images/icons/Weapon/Melee/Hammer/PoleHammer.png</file>
+        <file alias="weapons/hammer/greathammer">images/icons/Weapon/Melee/Hammer/GreatHammer.png</file>
+        <file alias="weapons/hammer/tombhammer">images/icons/Weapon/Melee/Hammer/TombHammer.png</file>
+        <file alias="weapons/hammer/forgehammer">images/icons/Weapon/Melee/Hammer/Forgehammer.png</file>
+        <file alias="weapons/hammer/grovekeeper">images/icons/Weapon/Melee/Hammer/Grovekeeper.png</file>
+        <file alias="weapons/hammer/hoj">images/icons/Weapon/Melee/Hammer/HoJ.png</file>
+        
+        <!-- Quarterstaff -->
+        <file alias="weapons/quarterstaff/quarterstaff">images/icons/Weapon/Melee/Quatterstaves/Quatterstaff.png</file>
+        <file alias="weapons/quarterstaff/ironclad">images/icons/Weapon/Melee/Quatterstaves/Ironclad.png</file>
+        <file alias="weapons/quarterstaff/doublebladed">images/icons/Weapon/Melee/Quatterstaves/Doublebladed.png</file>
+        <file alias="weapons/quarterstaff/blackmonk">images/icons/Weapon/Melee/Quatterstaves/Blackmonk.png</file>
+        <file alias="weapons/quarterstaff/soulscythe">images/icons/Weapon/Melee/Quatterstaves/Soulscythe.png</file>
+        <file alias="weapons/quarterstaff/balance">images/icons/Weapon/Melee/Quatterstaves/Balance.png</file>
+        <file alias="weapons/quarterstaff/grail">images/icons/Weapon/Melee/Quatterstaves/Grail.png</file>
+        <file alias="weapons/quarterstaff/phantom">images/icons/Weapon/Melee/Quatterstaves/Phantom.png</file>
+        
+        <!-- Wargloves -->
+        <file alias="weapons/wargloves/brawler">images/icons/Weapon/Melee/Wargloves/Brawler.png</file>
+        <file alias="weapons/wargloves/battle">images/icons/Weapon/Melee/Wargloves/Battle.png</file>
+        <file alias="weapons/wargloves/spiked">images/icons/Weapon/Melee/Wargloves/Spiked.png</file>
+        <file alias="weapons/wargloves/ursine">images/icons/Weapon/Melee/Wargloves/Ursine.png</file>
+        <file alias="weapons/wargloves/hellfire">images/icons/Weapon/Melee/Wargloves/Hellfire.png</file>
+        <file alias="weapons/wargloves/raven">images/icons/Weapon/Melee/Wargloves/Raven.png</file>
+        <file alias="weapons/wargloves/avalon">images/icons/Weapon/Melee/Wargloves/Avalon.png</file>
+        <file alias="weapons/wargloves/forcepulse">images/icons/Weapon/Melee/Wargloves/Forcepulse.png</file>
+    </qresource>
+</RCC> 
