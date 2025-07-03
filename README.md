@@ -69,4 +69,4 @@ MIT License (или укажите свою)
 
 ---
 
-**Разработчик:** [Ваше имя или ник](https://github.com/yourusername) 
+**Разработчик:** [Сheezerok](https://github.com/Cheezerok) 
